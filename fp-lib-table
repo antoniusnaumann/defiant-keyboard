@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Seeedstudio XIAO")(type "KiCad")(uri "${KIPRJMOD}/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "Defiant")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty")(options "")(descr ""))
+)
