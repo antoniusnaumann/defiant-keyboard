@@ -1,0 +1,43 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.2-0*%
+%TF.CreationDate,2024-02-18T22:39:56+01:00*%
+%TF.ProjectId,defiant-plate,64656669-616e-4742-9d70-6c6174652e6b,v0.1*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L1,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.2-0) date 2024-02-18 22:39:56*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10C,4.000000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,REF\u002A\u002A,1*%
+%TO.N,N/C*%
+X118494251Y-90563323D03*
+%TD*%
+%TO.P,,1*%
+%TO.N,N/C*%
+X181220000Y-113710000D03*
+%TD*%
+%TO.P,,1*%
+%TO.N,N/C*%
+X119704251Y-116603323D03*
+%TD*%
+%TO.P,REF\u002A\u002A,1*%
+%TO.N,N/C*%
+X156494251Y-71553323D03*
+%TD*%
+%TO.P,REF\u002A\u002A,1*%
+%TO.N,N/C*%
+X118494251Y-71553323D03*
+%TD*%
+%TO.P,REF\u002A\u002A,1*%
+%TO.N,N/C*%
+X156494251Y-90563323D03*
+%TD*%
+M02*
