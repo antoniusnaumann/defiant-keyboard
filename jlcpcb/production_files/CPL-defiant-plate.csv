@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C0R1,SW_PUSH,SW_Gateron_LowProfile_Plate,90.018816,-70.060448,0.0,bottom
+C0R2,SW_PUSH,SW_Gateron_LowProfile_Plate,90.018816,-89.060447,0.0,bottom
+C0R3,SW_PUSH,SW_Gateron_LowProfile_Plate,90.018815,-108.060447,0.0,bottom
+C1R1,SW_PUSH,SW_Gateron_LowProfile_Plate,109.018817,-62.060447,0.0,bottom
+C1R2,SW_PUSH,SW_Gateron_LowProfile_Plate,109.018815,-81.060448,0.0,bottom
+C1R3,SW_PUSH,SW_Gateron_LowProfile_Plate,109.018815,-100.060447,0.0,bottom
+C2R1,SW_PUSH,SW_Gateron_LowProfile_Plate,128.018815,-58.060447,0.0,bottom
+C2R2,SW_PUSH,SW_Gateron_LowProfile_Plate,128.018815,-77.060447,0.0,bottom
+C2R3,SW_PUSH,SW_Gateron_LowProfile_Plate,128.018815,-96.060447,0.0,bottom
+C3R1,SW_PUSH,SW_Gateron_LowProfile_Plate,147.018815,-62.060448,0.0,bottom
+C3R2,SW_PUSH,SW_Gateron_LowProfile_Plate,147.018815,-81.060448,0.0,bottom
+C3R3,SW_PUSH,SW_Gateron_LowProfile_Plate,147.018816,-100.060447,0.0,bottom
+C4R1,SW_PUSH,SW_Gateron_LowProfile_Plate,166.018815,-62.060447,0.0,bottom
+C4R2,SW_PUSH,SW_Gateron_LowProfile_Plate,166.018816,-81.060447,0.0,bottom
+C4R3,SW_PUSH,SW_Gateron_LowProfile_Plate,166.018815,-100.060447,0.0,bottom
+C5R2,SW_PUSH,SW_Gateron_LowProfile_Plate,185.018821,-71.443323,0.0,top
+C5R3,SW_PUSH,SW_Gateron_LowProfile_Plate,185.018821,-90.443323,0.0,top
+T0,SW_PUSH,SW_Gateron_LowProfile_Plate,109.018816,-119.060449,0.0,top
+T1,SW_PUSH,SW_Gateron_LowProfile_Plate,130.393816,-119.060448,0.0,top
+T2,SW_PUSH,SW_Gateron_LowProfile_Plate,152.244251,-119.573324,-3.0,top
+T3,SW_PUSH,SW_Gateron_LowProfile_Plate,172.64683,-123.606691,-20.0,top
+T4,SW_PUSH,SW_Gateron_LowProfile_Plate,191.41961,-133.562895,-36.0,top
