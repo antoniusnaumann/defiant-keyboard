@@ -1185,6 +1185,8 @@
   (pad "10" smd rect (at 9.25 2.54) (size 3 2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 61538bd6-5b2f-4434-87c8-d3756de37298))
   (pad "11" smd rect (at 9.25 0) (size 3 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b495476b-0fa5-4932-b266-ed085523562a))
   (pad "11" smd rect (at 9.25 0) (size 3 2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 4283c11e-2fcb-4c23-9e30-8f582fdd6cad))
+  (pad "17" thru_hole circle (at -1.27 -8.39 90) (size 2.2 2.2) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 06c4ae7a-9862-4192-bd0c-c02379eba748))
+  (pad "18" thru_hole circle (at 1.27 -8.39 90) (size 2.2 2.2) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 068169d2-a57f-4676-a997-de9f586ca40e))
   (pad "19" thru_hole circle (at -1.27 -5.85 90) (size 2.2 2.2) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 28284959-d78b-4e6d-a335-7b8cbdcb7a3e))
   (pad "20" thru_hole circle (at 1.27 -5.85 90) (size 2.2 2.2) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 12310a6f-81de-477a-9cd9-6d06dedfb3a2))
   (pad "21" thru_hole rect (at -4.5 -2.4) (size 2.3 2.3) (drill 1.5 (offset 0 -0.3)) (layers "*.Cu" "*.Mask")

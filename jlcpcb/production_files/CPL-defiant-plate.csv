@@ -1,7 +1,7 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-C0R1,SW_PUSH,SW_Gateron_LowProfile_Plate,90.018816,-70.060448,0.0,bottom
-C0R2,SW_PUSH,SW_Gateron_LowProfile_Plate,90.018816,-89.060447,0.0,bottom
-C0R3,SW_PUSH,SW_Gateron_LowProfile_Plate,90.018815,-108.060447,0.0,bottom
+C0R1,SW_PUSH,SW_Gateron_LowProfile_Plate,90.018816,-71.060448,0.0,bottom
+C0R2,SW_PUSH,SW_Gateron_LowProfile_Plate,90.018816,-90.060447,0.0,bottom
+C0R3,SW_PUSH,SW_Gateron_LowProfile_Plate,90.018815,-109.060447,0.0,bottom
 C1R1,SW_PUSH,SW_Gateron_LowProfile_Plate,109.018817,-62.060447,0.0,bottom
 C1R2,SW_PUSH,SW_Gateron_LowProfile_Plate,109.018815,-81.060448,0.0,bottom
 C1R3,SW_PUSH,SW_Gateron_LowProfile_Plate,109.018815,-100.060447,0.0,bottom

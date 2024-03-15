@@ -1,7 +1,7 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-C0R1,SW_PUSH,SW_Gateron_LowProfile_HotSwap_PTH_Reversible,89.176778,-70.757218,0.0,bottom
-C0R2,SW_PUSH,SW_Gateron_LowProfile_HotSwap_PTH_Reversible,89.176779,-89.757216,0.0,bottom
-C0R3,SW_PUSH,SW_Gateron_LowProfile_HotSwap_PTH_Reversible,89.176778,-108.757217,0.0,bottom
+C0R1,SW_PUSH,SW_Gateron_LowProfile_HotSwap_PTH_Reversible,89.176778,-71.757218,0.0,bottom
+C0R2,SW_PUSH,SW_Gateron_LowProfile_HotSwap_PTH_Reversible,89.176779,-90.757216,0.0,bottom
+C0R3,SW_PUSH,SW_Gateron_LowProfile_HotSwap_PTH_Reversible,89.176778,-109.757217,0.0,bottom
 C1R1,SW_PUSH,SW_Gateron_LowProfile_HotSwap_PTH_Reversible,108.176779,-62.757217,0.0,bottom
 C1R2,SW_PUSH,SW_Gateron_LowProfile_HotSwap_PTH_Reversible,108.176779,-81.757218,0.0,bottom
 C1R3,SW_PUSH,SW_Gateron_LowProfile_HotSwap_PTH_Reversible,108.176778,-100.757217,0.0,bottom
@@ -16,9 +16,9 @@ C4R2,SW_PUSH,SW_Gateron_LowProfile_HotSwap_PTH_Reversible,165.176779,-81.757218,
 C4R3,SW_PUSH,SW_Gateron_LowProfile_HotSwap_PTH_Reversible,165.176778,-100.757217,0.0,bottom
 C5R2,SW_PUSH,SW_Gateron_LowProfile_HotSwap_PTH_Reversible,184.176784,-72.140093,0.0,top
 C5R3,SW_PUSH,SW_Gateron_LowProfile_HotSwap_PTH_Reversible,184.176785,-91.140094,0.0,top
-D1,D,D_SOD-123,88.326777,-65.557217,180.0,top
-D2,D,D_SOD-123,88.326778,-84.557218,180.0,top
-D3,D,D_SOD-123,88.326779,-103.557218,180.0,top
+D1,D,D_SOD-123,88.326777,-66.557217,180.0,top
+D2,D,D_SOD-123,88.326778,-85.557218,180.0,top
+D3,D,D_SOD-123,88.326779,-104.557218,180.0,top
 D4,D,D_SOD-123,107.326779,-114.557217,0.0,top
 D5,D,D_SOD-123,107.326778,-57.557217,180.0,top
 D6,D,D_SOD-123,107.326779,-76.557217,180.0,top
@@ -41,10 +41,10 @@ D23,D,D_SOD-123,183.404284,-85.970093,0.0,top
 J1,Conn_01x02_Pin,Lipo Connector,199.677963,-85.406771,180.0,top
 SW1,SW_Push,SW_SPST_TL3342,179.497963,-105.81677,0.0,top
 SW2,SW_Push,SW_SPST_TL3342,179.497963,-105.81677,0.0,bottom
-SW3,SW_DP3T,SW_CuK_JS202011AQN_DPDT_Angled,203.802964,-96.26427,270.0,bottom
+SW3,SW_DP3T,SW_CuK_JS202011AQN_DPDT_Angled,203.795,-96.0175,270.0,bottom
 T0,SW_PUSH,SW_Gateron_LowProfile_HotSwap_PTH_Reversible,108.176779,-119.757219,0.0,top
 T1,SW_PUSH,SW_Gateron_LowProfile_HotSwap_PTH_Reversible,129.551779,-119.757218,0.0,top
 T2,SW_PUSH,SW_Gateron_LowProfile_HotSwap_PTH_Reversible,151.402214,-120.270094,-3.0,top
 T3,SW_PUSH,SW_Gateron_LowProfile_HotSwap_PTH_Reversible,171.804793,-124.303461,-20.0,top
 T4,SW_PUSH,SW_Gateron_LowProfile_HotSwap_PTH_Reversible,190.577573,-134.259665,-36.0,top
-U1,Seeed Studio XIAO BLE,XIAO-nRF52840-Sense-14P-2.54-21X17.8MM_NoLED_Handsolder,195.020412,-111.905093,-90.0,top
+U1,Seeed Studio XIAO BLE,XIAO-nRF52840-Sense-14P-2.54-21X17.8MM_Reduced_Pins,195.020412,-111.905093,-90.0,top
